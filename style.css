@@ -1,0 +1,17 @@
+* {
+    background-color: gray;
+}
+
+body {
+    border: 1px solid purple;
+    width: 500px;
+    margin: 100px auto;
+}
+
+button {
+    border: 1px solid black;
+}
+
+input {
+    border: 1px solid black;
+}
